@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rofi -no-config -modi window -show window -hide-scrollbar -eh 1 \
+     -padding 50 -line-padding 4 -font "Ubuntu 8" -theme solarized

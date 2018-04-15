@@ -1,0 +1,84 @@
+* "Bullshit!" Analysis of alt/rad-movements
+** Central questions
+keywords: behavioral analysis; signal theory; linguistics; political movements; social movements
+- Questions:
+  - What are the common traits shared between current alt/rad-movements?
+  - Can we create a nuanced, generalizable model to describe formation of these groups?
+  - Can we create a set of models to document processes and sub-processes within these groups?
+  - Can we then tie these micro models into a larger macro model?
+** What I have so far
+*** Really... what are these groups?
+  - They exist on the margins of the greater discourse
+  - Chief objective: insert their lesser discourse into the greater discourse
+  - Analogy: Stone Soup with unknown variables "Is it poison?"
+  - Some ideas are poison; without true tests, nearly impossible to tell
+*** Greater and lesser discourse
+  - What is discourse
+    - From Foucault: ... (to add later)
+    - How we define the subjective cultural reality: norms, mores, ethics, traditions, worldview
+    - Example: View of homosexuality since 1960's to now
+  - Greater Discourse
+    - How the average population views things
+    - "Universal" to how the meta-group sees itself and the world around it
+  - Lesser Discourse
+    - held by groups that are partially excluded from the Greater Discourse
+    - divergent groups that vie to include their ideas in the "Stone Soup"
+    - Competition against both the Greater Discourse and the other groups
+    - ex: Alt-right/fascists; Rad-left/(numerous leftist ideologies; Stalinism, anarchism, and socialism at forefront)
+- Commonalities between both:
+  - potential for splitting, creation of factions within either discourse
+  - factionalism creates competition for control of the discourse
+  - also occurs when a Lesser Discourse enters the pool of the Greater Discourse
+  - realization that both will subsume smaller groups (in numbers and ideology) in order to add a measure of variety
+*** Violence and its place in the alt/rad movements
+  -(Pull some thought wrt/ Islam view of Jihad)
+  - Define the types of violence
+    - physical: harm done to persons or property
+    - social: ostracization, rumors, smear campaigns, etc. used to lower a person's status
+    - cyber: attacks that will remove a person's platform for speech: DDoS, pressure or attacks against the hosting provider
+  - Threat of violence used to enforce conformity among members
+    - Implicit threat through actions taken against dissenters and outsiders
+    - the threats help quiet insiders that would otherwise raise probing questions/express criticism of movement
+  - Against outsiders
+    - violence against outsiders can be both helpful and harmful
+    - helps: protection, backs-up some soft-power, attraction of a certain kind of recruit: protection, outlet for anger/resentment towards opposition
+    - harms: can damage public image, soft power can be seen as a short precursor to hard power, alienation of moderate|pacifist supporter
+*** Myths within the discourses
+- Stories of oppression
+  - (mis-)appropriation of these stories acts as a tool to both form the ideology and create propoganda for recruitment
+  - generally focused on (various types of) minority groups/causes
+  - "savior complex" fuels the movements; ex: Laura Bush 2001 Weekly Address re: Afghan Women
+  - next-generation of imperialist/orientalist thought applied on a more micro level?
+- "Liberation theology" as a non-religious tool
+  - "veneration" of past thinkers/writers/scholars
+  - A form of reactionary politics?
+    - Dream of completing the work of these thinkers
+      - Examples: Marx's workers' utopia; Hitler's Reich; Klan objectives
+*** The results of these myths
+**** Damaging to current society
+  - Censorship of differing viewpoints
+    - Kills opportunity for organic change
+    - Squelching progress and creates stagnation and repression
+      - Stagnation and repression will create restive and reactive groups
+  - Behavior that does not contribute to civil society
+      - /"Degeneracy"/ and risks towards protected classes
+        - Paedophilia and predation of "barely legal" youths
+        - Open lechery, and innapropriate public displays 
+      - Subjugation of women
+        - treatment of them as property
+        - correctional rape
+      - Racial politicking
+        - equality of opportunity != equality of results
+        - supremacy|subjugation of race(s) and racial preference
+**** Beneficial to current society
+    - Adoption of certain reactionary politics
+      - national pride != blind patriotism
+      - recognition of the family unit as a necessity
+      - optimism: ability to make the world a better place
+    - A more nuanced feminism
+      - recognition that the choice and agency of women belongs to them
+      - framework to show that feminism is expressed in cultural contexts
+    - Decentralization of key services
+      - monopoly-busting to enable competition
+      - allows for more innovation, allows for advancements
+      - variety of services (http; ssh; file services)
