@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+rofi -no-config -modi run,drun,window -show drun \
+    -eh 1 -line-padding 4 -padding 50 -sidebar-mode \
+    -font "Ubuntu 8" -theme solarized
